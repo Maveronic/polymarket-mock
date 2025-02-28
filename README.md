@@ -64,7 +64,7 @@ On Windows:
 Use the following command:
 
 ```bash
-python manage.py runserver.py
+python manage.py runserver
 ```
 
 On Unix-based systems (Linux/MacOS):
@@ -72,7 +72,7 @@ On Unix-based systems (Linux/MacOS):
 Use the following command:
 
 ```bash
-python3 manager.py runserver.py
+python3 manager.py runserver
 ```
 
 ## 9. Check out the API Documentation
