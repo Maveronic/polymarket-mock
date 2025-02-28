@@ -58,7 +58,7 @@ cd prediction_market
 ```
 
 ## 8. Run the server
-To run the script and fetch the weather data:
+To start the server, run the following command:
 On Windows:
 
 Use the following command:
