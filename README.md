@@ -1,3 +1,8 @@
+# Working principle of the project (MVP)*
+
+![image](https://github.com/user-attachments/assets/333a8091-cdad-41ab-bda0-d9ca2af9f5d4)
+
+
 # Setting Up the Project
 
 Follow these steps to download and set up the project from GitHub, create a virtual environment, install dependencies, and run the script.
