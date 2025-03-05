@@ -1,6 +1,6 @@
 # Working principle of the mock app(MVP)*
 
-![image](https://github.com/user-attachments/assets/333a8091-cdad-41ab-bda0-d9ca2af9f5d4)
+![image](https://github.com/user-attachments/assets/3794d825-715c-400a-b363-667f1eace540)
 
 
 # Setting Up the Project
