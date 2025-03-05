@@ -1,4 +1,4 @@
-# Working principle of the project (MVP)*
+# Working principle of the mock app(MVP)*
 
 ![image](https://github.com/user-attachments/assets/333a8091-cdad-41ab-bda0-d9ca2af9f5d4)
 
